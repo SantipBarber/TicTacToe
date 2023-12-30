@@ -2,8 +2,12 @@ This project is an Tic Tac Toe Application using KMP and Firebase Firestore as d
 
 This is a structure of the database:
 
+```mermaid
+
 graph TD;
 A-->B;
 A-->C;
 B-->D;
 C-->D;
+
+```
